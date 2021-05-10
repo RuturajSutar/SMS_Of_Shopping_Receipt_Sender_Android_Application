@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "379579261583",
+    "firebase_url": "https://ilab-31696.firebaseio.com",
+    "project_id": "ilab-31696",
+    "storage_bucket": "ilab-31696.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:379579261583:android:de5bf88efb0dfa68df86fa",
+        "android_client_info": {
+          "package_name": "com.starkindustriesranjeet.ilab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "379579261583-bvq86mqbjgfcn8kqmcl4v25vtr0fsjih.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.starkindustriesranjeet.ilab",
+            "certificate_hash": "8f4a3f5a79c636dfe8b3ec14d5096b600a1f55ec"
+          }
+        },
+        {
+          "client_id": "379579261583-lpneenrvo9325at287opuqg8cu7698jq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKUK0D4IhMnfxxSEAtwcMsBHZk98qpcbU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "379579261583-lpneenrvo9325at287opuqg8cu7698jq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
